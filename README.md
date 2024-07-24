@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi, I'm Rocky Patel 👋</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rpatel9675.rpatel9675&left_color=royalblue&right_color=black" />
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB on backend.
@@ -19,9 +18,9 @@
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
-- 5+ years of experience in HTML, CSS, and JavaScript.
-- 3+ years of experience in React and Node.js.
-- 1+ years of experience in MongoDB and MySQL.
+- 3+ years of experience in HTML, CSS, and JavaScript.
+- 2+ years of experience in MongoDB and MySQL.
+- 1+ years of experience in React and Node.js.
 - 🏆 Experienced in developing APIs, RESTful services, and full-stack web applications.
 - HTML/CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Git, Docker, CI/CD.
 
@@ -58,13 +57,6 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" /></code>
 </div>
 
-## My Journey
-<div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=rpatel9675&show_icons=true&theme=dracula">
-  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpatel9675&layout=compact&theme=dracula" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=rpatel9675&theme=dracula">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=rpatel9675&theme=dracula" />
-</div>
 
 ## Connect with me:
 <div align="left">
