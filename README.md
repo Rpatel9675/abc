@@ -8,8 +8,8 @@
 ✨ I study: React, Node.js, MongoDB, and web development technologies.
 
 ## About me:
-- 🔭 I’m currently working on the Wanderlust project.
-- 🌱 I’m currently learning more about Kubernetes and advanced JavaScript.
+- 🔭 I’m currently working on the Robotics hand gripper using 3D printing technology.
+- 🌱 I’m currently learning more about advanced React.
 - 👯 I’m looking to collaborate on web development projects and startups.
 - 💬 Ask me about anything related to web development or competitive coding.
 - 😄 Pronouns: He/Him
