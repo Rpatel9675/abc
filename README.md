@@ -3,17 +3,13 @@
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB on backend.
-
 🤔 I'm currently working on a robotics hand gripper using a 3D printer.
-
 ✨ I study: React, Node.js, MongoDB, and web development technologies.
 
 ## About me:
-- 🔭 I’m currently working on the Robotics hand gripper using 3D printing technology.
 - 🌱 I’m currently learning more about advanced React.
 - 👯 I’m looking to collaborate on web development projects and startups.
 - 💬 Ask me about anything related to web development or competitive coding.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a 1750 rating on LeetCode and 5-star in C++ on HackerRank.
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
