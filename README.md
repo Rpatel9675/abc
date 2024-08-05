@@ -116,27 +116,54 @@
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 ## Languages and Tools:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#c">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C icon" width="65" height="65" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#nodejs">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js icon" width="65" height="65" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#express">
-        <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express icon" width="65" height="65" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#mongodb">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB icon" width="65" height="65" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+   <a href="#macropower-tech">
+     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
+   </a>
+   <a href="#javascript">
+     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" />
+   </a>
+   <a href="#cplusplus">
+     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" />
+   </a>
+   <a href="#react">
+     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
+   </a>
+   <a href="#html5">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon" width="65" height="65" />
+   </a>
+   <a href="#css3">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon" width="65" height="65" />
+   </a>
+   <a href="#c">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="65" height="65" />
+   </a>
+   <a href="#nodejs">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js icon" width="65" height="65" />
+   </a>
+   <a href="#express">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js icon" width="65" height="65" />
+   </a>
+   <a href="#mongodb">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB icon" width="65" height="65" />
+   </a>
+   <a href="#mysql">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL icon" width="65" height="65" />
+   </a>
+   <a href="#git">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git icon" width="65" height="65" />
+   </a>
+   <a href="#github">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub icon" width="65" height="65" />
+   </a>
+   <a href="#bootstrap">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap icon" width="65" height="65" />
+   </a>
+   <a href="#matlab">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab icon" width="65" height="65" />
+   </a>
+   <a href="#arduino">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino icon" width="65" height="65" />
+   </a>
+</div>
+<br>
