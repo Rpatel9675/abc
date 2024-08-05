@@ -136,4 +136,9 @@
 <a href="#react">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
 </a>
+<a href="#react">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="react logo" />
+</a>
+
+
 
