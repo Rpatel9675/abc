@@ -116,4 +116,48 @@
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .tech-stack {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+    }
+
+    .tech-stack img {
+      width: 65px;
+      height: 65px;
+      transition: transform 0.3s ease;
+    }
+
+    .tech-stack img:hover {
+      transform: scale(1.2);
+    }
+
+    .tech-stack a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="tech-stack">
+    <a href="#c">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c logo" />
+    </a>
+    <a href="#nodejs">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" />
+    </a>
+    <a href="#express">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs logo" />
+    </a>
+    <a href="#mongodb">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb logo" />
+    </a>
+  </div>
+</body>
+</html>
 
