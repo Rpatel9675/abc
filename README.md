@@ -135,3 +135,4 @@
 <a href="#react">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
 </a>
+
