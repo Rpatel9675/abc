@@ -217,6 +217,55 @@
    </a>
 </div>
 <br>
- <a href="#mongodb">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB icon" width="65" height="65" />
-   </a>
+## Languages and Tools:
+<div align="left">
+  <a href="#javascript">
+    <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="javascript icon" width="65" height="65" />
+  </a>
+  <a href="#react">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react icon" width="65" height="65" />
+  </a>
+  <a href="#html5">
+    <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="html5 icon" width="65" height="65" />
+  </a>
+  <a href="#css3">
+    <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="css3 icon" width="65" height="65" />
+  </a>
+  <a href="#c">
+    <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="c icon" width="65" height="65" />
+  </a>
+  <a href="#python">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python icon" width="65" height="65" />
+  </a>
+  <a href="#cplusplus">
+    <img src="https://techstack-generator.vercel.app/cplusplus-icon.svg" alt="cplusplus icon" width="65" height="65" />
+  </a>
+  <a href="#nodejs">
+    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="nodejs icon" width="65" height="65" />
+  </a>
+  <a href="#express">
+    <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="express icon" width="65" height="65" />
+  </a>
+  <a href="#mongodb">
+    <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="mongodb icon" width="65" height="65" />
+  </a>
+  <a href="#mysql">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql icon" width="65" height="65" />
+  </a>
+  <a href="#git">
+    <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="git icon" width="65" height="65" />
+  </a>
+  <a href="#github">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github icon" width="65" height="65" />
+  </a>
+  <a href="#bootstrap">
+    <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="bootstrap icon" width="65" height="65" />
+  </a>
+  <a href="#matlab">
+    <img src="https://techstack-generator.vercel.app/matlab-icon.svg" alt="matlab icon" width="65" height="65" />
+  </a>
+  <a href="#arduino">
+    <img src="https://techstack-generator.vercel.app/arduino-icon.svg" alt="arduino icon" width="65" height="65" />
+  </a>
+</div>
+<br>
