@@ -1,6 +1,19 @@
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
 <div align="justify">
 
+# Welcome to My GitHub Page
+
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Rocky Patel" title="👋 Hi there! I'm Rocky Patel" style="display:block; margin:auto; width:150px; height:auto;"/>
+
+<div align="center">
+    <h1 style="font-family: Arial, sans-serif; color: #333;">Hi there! I'm Rocky Patel</h1>
+    <p style="font-family: Arial, sans-serif; color: #555; max-width: 600px; margin: auto;">
+        Welcome to my GitHub page! I'm an Electrical and Electronics Engineering student with a passion for coding and web development.
+        Here, you'll find my projects, contributions, and various coding challenges I've worked on. Feel free to explore and connect with me!
+    </p>
+</div>
+
+
 <h1 align="center">Hi, I'm Rocky Patel 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
