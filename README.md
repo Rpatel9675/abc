@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there!  I'm Rocky Patel " title="👋 Hi there! I'm reza"/>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there!  I'm Rocky Patel " title="👋 Hi there! Hi there!  I'm Rocky Patel"/>
 <div align="justify">
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
