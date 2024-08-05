@@ -1,24 +1,9 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
-<div align="justify">
-
-# Welcome to My GitHub Page
-
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Rocky Patel" title="👋 Hi there! I'm Rocky Patel" style="display:block; margin:auto; width:150px; height:auto;"/>
-
-<div align="center">
-    <h1 style="font-family: Arial, sans-serif; color: #333;">Hi there! I'm Rocky Patel</h1>
-    <p style="font-family: Arial, sans-serif; color: #555; max-width: 600px; margin: auto;">
-        Welcome to my GitHub page! I'm an Electrical and Electronics Engineering student with a passion for coding and web development.
-        Here, you'll find my projects, contributions, and various coding challenges I've worked on. Feel free to explore and connect with me!
-    </p>
-</div>
-
 
 <h1 align="center">Hi, I'm Rocky Patel 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
-❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB on backend.
-🤔 I'm currently working on a robotics hand gripper using a 3D printer.
+❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB on backend.                  
+🤔 I'm currently working on a robotics hand gripper using a 3D printer.        
 ✨ I study: React, Node.js, MongoDB, and web development technologies.
 
 ## About me:
@@ -37,89 +22,50 @@
 - HTML/CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Git, Docker, CI/CD.
 
 ## Languages and Tools:
-## Languages and Tools ⚙️
-
-> Tools and technologies that I have worked with and am interested in
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>CSS3
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>Express.js
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>GitHub
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>Bootstrap
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>Matlab
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="65" height="65" style="transition: transform 0.3s;"/>
-        <br>Arduino
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="expressjs logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" alt="bootstrap logo" /></code>
+  <img width="12" />
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30" alt="matlab logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" /></code>
 </div>
+<br>
 
-<style>
-  img:hover {
-    transform: scale(1.1);
-  }
-</style>
+![](https://komarev.com/ghpvc/?username=Rpatel9675)
 
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rpatel9675" alt="Rpatel9675" /></a> </p>
+
+## Leetcode
+<div style="display: flex; align-items: center;">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=pprl735757&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/>
+  <img src="https://leetcard.jacoblin.cool/pprl735757?ext=contest&theme=lapor" alt="Leetcode Stats"/>
+</div>
 
 ## My Journey
 <div align="center">
@@ -161,3 +107,5 @@
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+
+
