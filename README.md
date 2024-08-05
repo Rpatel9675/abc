@@ -289,6 +289,9 @@
    <a href="#arduino">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino icon" width="65" height="65" />
    </a>
+     <a href="#mysql">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql icon" width="65" height="65" />
+  </a>
 </div>
 <br>
 
