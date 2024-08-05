@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+<div align="justify">
 
 <h1 align="center">Hi, I'm Rocky Patel 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
