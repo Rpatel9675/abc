@@ -217,3 +217,6 @@
    </a>
 </div>
 <br>
+ <a href="#mongodb">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB icon" width="65" height="65" />
+   </a>
