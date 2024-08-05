@@ -31,9 +31,9 @@
    <a href="#cplusplus">
      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" />
    </a>
-   <a href="#react">
-     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
-   </a>
+ <a href="#react">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="react logo" />
+</a>
    <a href="#html5">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon" width="65" height="65" />
    </a>
@@ -133,12 +133,8 @@
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
-<a href="#react">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
-</a>
-<a href="#react">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="react logo" />
-</a>
+
+
 
 
 
