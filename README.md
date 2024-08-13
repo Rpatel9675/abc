@@ -134,7 +134,22 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Used%20by%20over%20100,000%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
 
+<h3 align="center">Hey there, I'm <a href="https://github.com/Thinkright20">Thinkright20</a></h3>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+
+<p align="center">
+  <a href="https://discord.gg/V2QxwJkbMn"><img alt="Followers" title="Followers" src="https://img.shields.io/badge/-Cheap Followers-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+
+ </p>
 
 
 
